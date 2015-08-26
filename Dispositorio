@@ -1,0 +1,18 @@
+ 68 74 74 70 73 3a 2f 2f 79 6f 75 74 75 2e 62 65 2f 74 76 38 6e 5a 48 4e 32 39 59 49
+Nomes: Raimundo Lima, Eduardo Amorim, Marcos Goulart.
+  Nosso grupo pensou em desenvolver um jogo de cartas por turno baseado em perguntas e resposta sobre a disciplina de História. O grupo conversou com o professor Stefan da disciplina em questão e nos ajudara com qualquer coisa referente a parte da disciplina.
+ O JOGO
+• Começo: Cada jogador recebera 5 cartas no começo do duelo, cada carta terá seus pontos de dano ou cura e terá o tema da pergunta, para cada carta usada ele recebera uma nova no próximo turno. 
+• Temas: Os temas serão partes da história com Idade Média, Pré-história ou sobre civilizações e povos como os Vikings e etc.
+• Pergunta: Será uma pergunta aleatória sobre o tema e terá um limite de tempo para ser respondido, só será aceita a primeira resposta.
+• Jogabilidade: O duelo será entre 2 jogadores, o jogador escolhera uma das caras que tem na mão assim que a carta for escolhida uma pergunta surgira para os 2 jogadores.
+A partir dessa parte surgira os seguintes casos.
+ - Caso1, O jogador que escolhe a carta acerta a pergunta: Se a carta for de dano o oponente sofrera o dano indicado na carta, se for de cura o jogador que escolheu a carte recebera a cura indicada na carta.
+-Caso2, O jogador que escolhe a carta erra a pergunta: Se a carta for de dano o jogador que escolheu a carta sofre metade do dano, se for de cura o inimigo é curado pela metade.
+-Caso3, O oponente responde corretamente primeiro: Se a carta for de dano o jogador que escolheu a carta recebe metade do dano, se a carta for de cura a mesma cura o oponente pela metade.
+-Caso4, O oponente reponde incorretamente primeiro: Se a carta for de dano o oponente leva o dano integral, se a carta for de cura a mesma ira curar o jogador que escolheu de forma integral.
+-Caso 5, O tempo acaba: Tanto a cura quanto o dano são anulados.
+
+
+“Programar é um ato de programar um programa”
+                                                                               - Bruno Ribeiro – 2014.
