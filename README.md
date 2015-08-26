@@ -1,8 +1,8 @@
 # Em Busca dos 15 Pontos
 
--Subir especificação no depositório(TXT);  -----FEITO----- MARCOS.
+-Subir especificação no depositório(TXT);                  -----FEITO----- MARCOS.
 -Subir wireframe no depositório(PNG/JPG/JPEG);  
 -Ajustar ".gitignore";                  -----FEITO----- ED.  
--Criar workspace com nome do projeto.  
+-Criar workspace com nome do projeto.                  -----FAZENDO----- MARCOS.
 -Criar projeto básico no Eclipse.  
 -Subir no repositório.  
