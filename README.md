@@ -3,6 +3,6 @@
 -Subir especificação no depositório(TXT);                  -----FEITO----- MARCOS.  
 -Subir wireframe no depositório(PNG/JPG/JPEG);  
 -Ajustar ".gitignore";                  -----FEITO----- ED.  
--Criar workspace com nome do projeto.
 -Criar projeto básico no Eclipse.  
+-Criar workspace com nome do projeto.  
 -Subir no repositório.  
