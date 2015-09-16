@@ -1,8 +1,12 @@
 # Em Busca dos 15 Pontos
 
--Subir especificação no repositório(TXT);                  -----FEITO----- MARCOS.  
--Subir wireframe no repositório(PNG/JPG/JPEG);    -----FEITO----- ED.  
--Ajustar ".gitignore";                  -----FEITO----- ED.  
--Criar projeto básico no Eclipse.    -----FEITO----- ED.  
--Subir workspace no repositório.    -----FEITO----- ED.  
-------------FEITO---------------
+Metas para prox quarta 23/set
+
+- persistir - criar algo com persistrencia no código (criar cadastro)
+- logar
+- Contagem de vitorias e derrotas
+- Um para cada membro do grupo
+- 
+1 ponto grupo + 1 ponto individual
+
+total 2 pontos;
