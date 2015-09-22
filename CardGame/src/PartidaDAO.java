@@ -7,7 +7,7 @@ public class PartidaDAO implements DAO<Partida> {
 
 	private Scanner scan;
 	private Scanner scan2;
-
+	
 	@Override
 	public void save(Partida f) {
 		try {
@@ -31,7 +31,6 @@ public class PartidaDAO implements DAO<Partida> {
 			e.printStackTrace();
 		}
 	}
-
 	@Override
 	public void delete(Partida f) {
 		try {
