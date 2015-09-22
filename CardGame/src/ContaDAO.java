@@ -7,7 +7,8 @@ public class ContaDAO implements DAO<Conta> {
 
 	private Scanner scan;
 	private Scanner scan2;
-
+	
+	//Feito por Marcos
 	@Override
 	public void save(Conta f) {
 		try {
@@ -29,7 +30,7 @@ public class ContaDAO implements DAO<Conta> {
 			e.printStackTrace();
 		}
 	}
-
+	//Metodo Delete: Feito por Marcos
 	@Override
 	public void delete(Conta f) {
 		try {
@@ -42,7 +43,7 @@ public class ContaDAO implements DAO<Conta> {
 			e.printStackTrace();
 		}		
 	}
-
+	//Metodo Load: Feito por Raimundo
 	public Conta load(String login, String password) {		
 		try {
 			File arq = new File("contas/" + login + ".csv");
