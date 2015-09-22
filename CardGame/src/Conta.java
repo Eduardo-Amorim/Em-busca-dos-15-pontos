@@ -68,5 +68,4 @@ public class Conta {
 		}
 		return (ganhou*100.0)/total;
 	}
-	
 }
