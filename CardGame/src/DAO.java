@@ -16,5 +16,4 @@ public interface DAO<T> {
 	
 	// encontra todos:
 	public ArrayList<T> findAll();
-
 }
