@@ -51,7 +51,7 @@ public class Conta {
 			return false;
 		return true;
 	}
-	
+	//Metodo feito por: Eduardo
 	public double getRate(){ 
 		PartidaDAO dao = new PartidaDAO();
 		ArrayList<Partida> partidas = dao.findAll();
