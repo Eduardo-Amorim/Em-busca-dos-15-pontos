@@ -1,7 +1,20 @@
 * o que foi desenvolvido
+              Foram desenvolvidos alguns botões (Start, creditos, back)
+              Foi pré selecionado a imagem do verso das cartas(falta edição)
+              Foi feito o Background 
+              Foi feita a tela de creditos
+              Foi desenvolvida a area de click do mouse
+              O jogo funciona em diversas resoluções
               //sera testado
               
 * O que falta desenvolver
+           Concluir aparencia das cartas
+           Audio (click, musica de fundo, som de vitória, som de derrota, efeito de carta)
+           animações (movimento das cartas)
+           jogabilidade 
+           musica de crédito
             // sugestões
             
 *Outras funcionalidades não planeadas
+      O jogo tera um "site" próprio
+      implementar login
