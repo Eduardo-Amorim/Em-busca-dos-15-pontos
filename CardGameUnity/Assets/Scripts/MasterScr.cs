@@ -34,6 +34,5 @@ public class MasterScr : MonoBehaviour
         new string[] { "Antiguidade Oriental", "AntOr", "Tema_AntiguidadeOriental" },
         new string[] { "Pre-Historia", "PreHis", "Tema_PreHistoria" }
     };
-
     public static List<Pergunta> PerguntasCarregadas = new List<Pergunta>();
 }
