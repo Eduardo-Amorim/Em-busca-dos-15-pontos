@@ -30,7 +30,6 @@ public class ControlesBasicos : MonoBehaviour {
             MasterScr.ResultadoResp.GetComponent<Text>().text = "Errado! Voce recebeu 5 de dano.";
             MasterScr.ResultadoResp.SetActive(true);
             
-
         }
         yield return new WaitForSeconds(3);
         MasterScr.ResultadoResp.SetActive(false);
