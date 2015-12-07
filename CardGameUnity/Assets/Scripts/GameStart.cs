@@ -28,7 +28,6 @@ public class GameStart : MonoBehaviour
 
         CarregarTemas();
 
-
         List<Pergunta> perguntasValidas = new List<Pergunta>();
         perguntasValidas.AddRange(MasterScr.PerguntasCarregadas);
 
