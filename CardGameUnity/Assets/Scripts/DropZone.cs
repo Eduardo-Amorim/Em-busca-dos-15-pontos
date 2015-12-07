@@ -6,8 +6,7 @@ using System.Collections;
 
 public class DropZone : MonoBehaviour, IDropHandler, IPointerEnterHandler, IPointerExitHandler
 {
-
-
+    
     public string AssuntoCard;
 
     public void OnPointerEnter(PointerEventData eventData)
