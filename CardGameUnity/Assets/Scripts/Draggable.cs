@@ -42,7 +42,6 @@ public class Draggable : MonoBehaviour, IBeginDragHandler, IDragHandler, IEndDra
 				break;
 			}
 		}
-
 	}
 	public void OnEndDrag(PointerEventData eventData){
 		Debug.Log ("OnEndDrag");
